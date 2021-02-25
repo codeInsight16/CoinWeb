@@ -1,0 +1,233 @@
+@font-face {
+    font-family: 'notoDemi';
+    font-style: normal;
+    src: url(./font/NotoSansCJKkr-DemiLight.otf);
+}
+
+@font-face {
+    font-family: 'notoLight';
+    font-style: normal;
+    src: url(./font/NotoSansCJKkr-Light.otf);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'notoLight';
+    letter-spacing: -1.3px;
+}
+
+a{
+    text-decoration: none;
+}
+
+/*Header.js CSS*/
+.header-container{
+    height: 100vh;
+    background-color: #191919;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main-logo{
+    margin-top: 9vw;
+    width: 26px;
+    height: 26px;
+}
+
+.main-img{
+    margin-top: 18vw;
+}
+
+.google-form-link{
+    padding: 12px;
+    color: #f9f9f9;
+    font-size: 0.95rem;
+    border: #dbdbdb 0.5px solid;
+    margin-top: 15vw;
+}
+
+.main-vertical-line{
+    margin-top: 10vw;
+}
+
+/*Intro.js CSS*/
+.intro-container{
+    height: 100vh;
+    background-color: #191919;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.intro-img{
+    margin-top: 35vw;
+}
+
+.intro-title{
+    color: #f9f9f9;
+    font-size: 1.1rem;
+    font-family: 'notoDemi';
+    margin-top: 15vw;
+}
+
+.intro-description{
+    color: #f9f9f9;
+    text-align: center;
+    margin-top: 12vw;
+}
+
+.intro-vertical-line{
+    margin-top: 20vw;
+}
+
+/*History.js CSS*/
+.history-container{
+    height: 100vh;
+    background-color: #191919;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.impact{
+    font-size: 1.3rem;
+    font-family: 'Impact' !important;
+    letter-spacing: 0.1px;
+}
+
+.award-detail1{
+    margin-top: 16vw;
+}
+
+.award-detail2{
+    margin-top: 8vw;
+}
+.award-detail3{
+    margin-top: 8vw;
+}
+
+.award-detail4{
+    margin-top: 8vw;
+}
+
+.award-detail5{
+    margin-top: 8vw;
+}
+
+.fontblue{
+    color: #0058ff;
+}
+
+.fontblue2{
+    color: #0052ED;
+}
+
+.fontblue3{
+    color: #004AD8;
+}
+
+.fontblue4{
+    color: #0046CB;
+}
+
+.history-container div p{
+    color: #f9f9f9;
+    font-size: 0.9rem;
+    margin-top: 2.7vw;
+}
+
+.history-vertical-line{
+    margin-top: 3vw;
+}
+
+/*Job.js CSS*/
+.job-container{
+    height: 100vh;
+    background-color: #191919;
+    box-sizing: border-box;
+    padding-top: 16vw;
+}
+
+/*JobCard.js CSS*/
+.jobCard-container{
+    color: #f9f9f9;
+    padding : 12vw 10vw 0 10vw;
+}
+.jobCard-title{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 0.1px;
+    margin-bottom: 2vw;
+    font-size: 1rem;
+}
+
+.jobCard-caption{
+    font-size: 1rem;
+    font-family: notoDemi;
+}
+
+.jobCard-horizontal-line{
+    opacity: 0.65;
+}
+
+.jobcard-description{
+    font-size: 0.86rem;
+    padding-top: 2vw;
+    position: relative;
+    left: 40%;
+}
+
+/*Footer.js CSS*/
+.footer-container{
+    height: 100vh;
+    background-color: #f9f9f9;
+    color: #191919;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer-inner-container{
+    height: 100px;
+    width: 100vw;
+    background-color: #191919;
+    color: #f9f9f9;   
+    font-size: 0.8rem;
+    padding: 8vw;
+    box-sizing: border-box;
+    margin-top: 32.5vw;
+}
+
+.location-title{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.4rem;
+    margin-top: 29.5vw;
+}
+
+.coin-map{
+    margin-top: 8vw;
+}
+
+.location-caption{
+    margin-top: 8vw;
+    font-size: 0.9rem;
+    color: #191919;
+}
+
+.location-caption-caption{
+    font-size: 0.8rem;
+    color: #191919;
+}
+.footer-inner-context{
+    float: left;
+}
+.footer-logo{
+    float: right;
+}
+.copyright{
+    color : #909090;
+    padding-top: 2vw;
+    letter-spacing: 0.1px;
+}
