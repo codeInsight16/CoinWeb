@@ -56,6 +56,8 @@ a{
 
 .main-vertical-line{
     margin-top: 10vw;
+    width: 1px;
+    height: 150px;
 }
 
 /*Intro.js CSS*/
@@ -86,6 +88,8 @@ a{
 
 .intro-vertical-line{
     margin-top: 20vw;
+    width: 1px;
+    height: 150px;
 }
 
 /*History.js CSS*/
@@ -147,6 +151,8 @@ a{
 
 .history-vertical-line{
     margin-top: 3vw;
+    width: 1px;
+    height: 150px;
 }
 
 /*Job.js CSS*/
@@ -176,6 +182,7 @@ a{
 
 .jobCard-horizontal-line{
     opacity: 0.65;
+    height: 0.7px;
 }
 
 .jobcard-description{
