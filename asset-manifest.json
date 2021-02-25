@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/CoinWeb/static/css/main.1d97937b.chunk.css",
+    "main.js": "/CoinWeb/static/js/main.a5a13e8a.chunk.js",
+    "main.js.map": "/CoinWeb/static/js/main.a5a13e8a.chunk.js.map",
+    "runtime-main.js": "/CoinWeb/static/js/runtime-main.6067193f.js",
+    "runtime-main.js.map": "/CoinWeb/static/js/runtime-main.6067193f.js.map",
+    "static/js/2.a42e7c70.chunk.js": "/CoinWeb/static/js/2.a42e7c70.chunk.js",
+    "static/js/2.a42e7c70.chunk.js.map": "/CoinWeb/static/js/2.a42e7c70.chunk.js.map",
+    "index.html": "/CoinWeb/index.html",
+    "static/css/main.1d97937b.chunk.css.map": "/CoinWeb/static/css/main.1d97937b.chunk.css.map",
+    "static/js/2.a42e7c70.chunk.js.LICENSE.txt": "/CoinWeb/static/js/2.a42e7c70.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/CoinWeb/static/media/NotoSansCJKkr-Light.528e085c.otf",
+    "static/media/coin_map.399ea8eb.svg": "/CoinWeb/static/media/coin_map.399ea8eb.svg",
+    "static/media/coin_web_main.0ffc5491.svg": "/CoinWeb/static/media/coin_web_main.0ffc5491.svg",
+    "static/media/line_horizontal.a13196c7.svg": "/CoinWeb/static/media/line_horizontal.a13196c7.svg",
+    "static/media/line_vertical.b5a0c04f.svg": "/CoinWeb/static/media/line_vertical.b5a0c04f.svg",
+    "static/media/logo_about.40acb9d5.svg": "/CoinWeb/static/media/logo_about.40acb9d5.svg",
+    "static/media/logo_footer.e385ecf0.svg": "/CoinWeb/static/media/logo_footer.e385ecf0.svg",
+    "static/media/logo_main.dd648321.svg": "/CoinWeb/static/media/logo_main.dd648321.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6067193f.js",
+    "static/js/2.a42e7c70.chunk.js",
+    "static/css/main.1d97937b.chunk.css",
+    "static/js/main.a5a13e8a.chunk.js"
+  ]
+}
