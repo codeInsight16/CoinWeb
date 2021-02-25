@@ -1,13 +1,19 @@
 @font-face {
     font-family: 'notoDemi';
     font-style: normal;
-    src: url(./font/NotoSansCJKkr-DemiLight.otf);
+    src: url(./font/noto-sans-kr-v13-latin_korean-300.woff);
 }
 
 @font-face {
     font-family: 'notoLight';
     font-style: normal;
-    src: url(./font/NotoSansCJKkr-Light.otf);
+    src: url(./font/noto-sans-kr-v13-latin_korean-100.woff);
+}
+
+@font-face {
+    font-family: 'Impact';
+    font-style: normal;
+    src: url(./font/impactreg.woff);
 }
 
 *{
@@ -99,7 +105,7 @@ a{
 }
 
 .award-detail1{
-    margin-top: 8vw;
+    margin-top: 5vw;
 }
 
 .award-detail2{
