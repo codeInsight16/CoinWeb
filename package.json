@@ -1,7 +1,7 @@
 {
   "name": "coinweb20210225",
   "version": "0.1.0",
-  "homepage": "https://codeinsight16.github.io/CoinWeb/.",
+  "homepage": "https://codeinsight16.github.io/CoinWeb/",
   "private": true,
   "dependencies": {
     "react": "^16.0.1",
