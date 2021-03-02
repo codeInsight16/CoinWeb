@@ -5,6 +5,7 @@ import Intro from './layout/intro';
 import History from './layout/history';
 import Job from './layout/job';
 import Footer from './layout/footer';
+import './reset.css';
 import './main.css';
 
 const App = () => {
