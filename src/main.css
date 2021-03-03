@@ -63,6 +63,8 @@ a{
     margin-top: 10vw;
     width: 1px;
     height: 150px;
+    letter-spacing: 0;
+    background-color: #ededed;
 }
 
 /*Intro.js CSS*/
@@ -95,6 +97,7 @@ a{
     margin-top: 20vw;
     width: 1px;
     height: 150px;
+    background-color: #ededed;
 }
 
 /*History.js CSS*/
@@ -158,6 +161,7 @@ a{
     margin-top: 3vw;
     width: 1px;
     height: 150px;
+    background-color: #ededed;
 }
 
 /*Job.js CSS*/
@@ -188,6 +192,7 @@ a{
 .jobCard-horizontal-line{
     opacity: 0.65;
     height: 0.7px;
+    background-color: #ededed;
 }
 
 .jobcard-description{

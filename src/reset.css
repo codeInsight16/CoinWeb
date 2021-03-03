@@ -17,6 +17,9 @@ time, mark, audio, video {
 	padding: 0;
 	border: 0;
 }
+html{
+	-webkit-overflow-scrolling : auto;
+}
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
