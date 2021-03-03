@@ -56,12 +56,12 @@ a{
     color: #f9f9f9;
     font-size: 0.95rem;
     border: #dbdbdb 0.5px solid;
-    margin-top: 15vw;
+    margin-top: 17vw;
 }
 
 .main-vertical-line{
     margin-top: 10vw;
-    width: 1px;
+    width: 0.6px;
     height: 150px;
     letter-spacing: 0;
     background-color: #ededed;
@@ -95,7 +95,7 @@ a{
 
 .intro-vertical-line{
     margin-top: 20vw;
-    width: 1px;
+    width: 0.6px;
     height: 150px;
     background-color: #ededed;
 }
@@ -158,8 +158,8 @@ a{
 }
 
 .history-vertical-line{
-    margin-top: 3vw;
-    width: 1px;
+    margin-top: 15vw;
+    width: 0.6px;
     height: 150px;
     background-color: #ededed;
 }
@@ -191,7 +191,8 @@ a{
 
 .jobCard-horizontal-line{
     opacity: 0.65;
-    height: 0.7px;
+    height: 0.6px;
+    width: 40px;
     background-color: #ededed;
 }
 
